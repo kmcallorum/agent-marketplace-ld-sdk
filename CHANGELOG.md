@@ -7,7 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2025-01-01
+## [0.1.1] - 2026-01-13
+
+### Added
+- CodeQL security scanning workflow
+- Snyk vulnerability scanning
+- Dependabot for automated dependency updates
+- Codecov integration for coverage reporting
+- Comprehensive README with 14 badges
+- Detailed API documentation and examples
+
+### Changed
+- Updated all GitHub Actions to latest versions (checkout v6, setup-python v6, etc.)
+- Improved README with installation, configuration, and development sections
+
+## [0.1.0] - 2026-01-13
 
 ### Added
 - Initial release
